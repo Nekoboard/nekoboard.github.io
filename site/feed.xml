@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Ruud van Asseldonk</title>
+    <link href="http://ruudvanasseldonk.com//feed.xml" rel="self" />
+    <link href="http://ruudvanasseldonk.com/" />
+    <id>http://ruudvanasseldonk.com//feed.xml</id>
+    <author>
+        <name>Ruud van Asseldonk</name>
+        <email>ruudva@veniogames.com</email>
+    </author>
+    <updated>2014-08-29T00:00:00Z</updated>
+    <entry>
+    <title>Nekoboard приобретает формы</title>
+    <link href="http://ruudvanasseldonk.com//2014/08/28/nekoboard-going-live/index.html" />
+    <id>http://ruudvanasseldonk.com//2014/08/28/nekoboard-going-live/index.html</id>
+    <published>2014-08-29T00:00:00Z</published>
+    <updated>2014-08-29T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<p>Наше небольшое сообщество посвященное разработке и модернизации эрогономичной клавиатуры начинает приобретать формы. Началась активная фаза адаптации материалов и разработка над раздельной(split) версией.</p>
+<p>Этот сайт будет посвящен развитию проекта, а так же будет наполняться различными материалами полезными при создании клавиатур.</p>]]></summary>
+</entry>
+
+</feed>
