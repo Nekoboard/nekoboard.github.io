@@ -24,7 +24,7 @@ main = do
   -- Retrieve current year to put in the footer
   yearContext <- getYearContext
   let siteContext = yearContext <> defaultContext
-  let fullContext = constField "title" "Ruud van Asseldonk" <> siteContext
+  let fullContext = constField "title" "Nekoboard dev blog" <> siteContext
 
   -- Run Hakyll
   hakyllWith config $ do
