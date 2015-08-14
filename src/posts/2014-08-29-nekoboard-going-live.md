@@ -7,4 +7,4 @@ date: 2014-08-28 15:00
 
 Этот сайт будет посвящен развитию проекта, а так же будет наполняться различными материалами полезными при создании клавиатур.
 
-![(picture of the game)](images/neko_board_layout.png)
+![(keyboard layout)](images/neko_board_layout.png)
