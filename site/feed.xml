@@ -8,8 +8,17 @@
         <name>Nekoboard</name>
         <email></email>
     </author>
-    <updated>2014-09-30T00:00:00Z</updated>
+    <updated>2015-08-14T00:00:00Z</updated>
     <entry>
+    <title>Обновление раскладки Nekoboard</title>
+    <link href="nekoboard.github.io/2015/08/14/nekoboard-layout-update/index.html" />
+    <id>nekoboard.github.io/2015/08/14/nekoboard-layout-update/index.html</id>
+    <published>2015-08-14T00:00:00Z</published>
+    <updated>2015-08-14T00:00:00Z</updated>
+    <summary type="html"><![CDATA[<p>Мы внесли очередные коррективы в разметку и теперь она выглядит следующим образом</p>
+<p><img src="images/neko_board_layout_1.2.png" alt="(keyboard layout)" /></p>]]></summary>
+</entry>
+<entry>
     <title>Версии Nekoboard</title>
     <link href="nekoboard.github.io/2014/09/30/nekoboard-versions/index.html" />
     <id>nekoboard.github.io/2014/09/30/nekoboard-versions/index.html</id>
@@ -43,7 +52,7 @@
     <updated>2014-08-29T00:00:00Z</updated>
     <summary type="html"><![CDATA[<p>Наше небольшое сообщество посвященное разработке и модернизации эрогономичной клавиатуры начинает приобретать формы. Началась активная фаза адаптации материалов и разработка над раздельной(split) версией.</p>
 <p>Этот сайт будет посвящен развитию проекта, а так же будет наполняться различными материалами полезными при создании клавиатур.</p>
-<p><img src="images/neko_board_layout.png" alt="(picture of the game)" /></p>]]></summary>
+<p><img src="images/neko_board_layout.png" alt="(keyboard layout)" /></p>]]></summary>
 </entry>
 
 </feed>
